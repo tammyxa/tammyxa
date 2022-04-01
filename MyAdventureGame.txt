@@ -1,0 +1,9 @@
+MyAdventureGame
+Have a player go through a series of monsters to prove that they can become a hero
+Player's HP: 100 Monster's HP: 50
+HP will not reset everytime a new monster is encountered
+5 monsters to beat
+Everytime a monster is killed, give the user an option to choose a buff.
+Buffs: increase HP; increase maxDamage; obtain armour (decreases the monster's maxDamage)
+If you dodge successfully half your damage
+If the user enters anything else besides the options given, the user loses their chance on whatever the options are.
