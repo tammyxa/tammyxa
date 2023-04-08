@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tammy Xaypraseuth
 - 👀 I’m interested in a computer science/programming internship
-- 🌱 I’m currently learning Java, C++, Python, SQL, Haskell and relearning JavaScript, HTML & CSS
+- 🌱 I’m currently learning Java, C, Python, SQL, and relearning JavaScript, HTML & CSS
 - 💞️ I’m looking to collaborate on games! I aspire to to a game designner and programmer.
 - 📫 How to reach me Email: txaypraseuth@gmail.com Phone: (626)476-1760
 
