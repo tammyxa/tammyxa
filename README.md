@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tammy Xaypraseuth
 - 👀 I’m interested in a game design/developer internship
-- 🌱 I’m currently learning Java and C# and relearning JavaScript, HTML & CSS
-- 💞️ I’m looking to collaborate on games! I aspire to be a game designner and programmer.
+- 🌱 I’m currently honing my JavaScript, HTML & CSS skills, and I main Java.
+- 💞️ I’m looking to collaborate on games! I aspire to be a game designer and programmer.
 - 📫 How to reach me Email: txaypraseuth@gmail.com
 
 <!---
